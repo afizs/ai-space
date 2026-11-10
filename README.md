@@ -1,6 +1,6 @@
-#  Python Notes
+#  AI Space
 
-- This repo contains all the Python and ML Tutorials I share on twitter and YouTube. 
+- This repo contains all the AI, ML and Python tutorials I share on X and YouTube.
 - Star this repo, if you don't want to miss any update. ⭐️
 
 ## Python Basics
@@ -28,6 +28,7 @@
 - [`Haystack Tonic`](ai-apps/haystack_tonic.ipynb)
 - [`OneAI HTML to Summary`](ml-apps/oneai/htmltosummary.py)
 - [`OneAI HTML to Text`](ml-apps/oneai/htmltotext.py)
+- [`Key Form by Qoder`](ai-apps/qoder)
 
 ## Data Structures and Algorithms (DSA)
 - [`Binary Search`](dsa/binary_search.ipynb)
