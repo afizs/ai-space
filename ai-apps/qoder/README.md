@@ -2,6 +2,9 @@
 
 A single-file interactive mechanical keyboard for the browser. Type on your real keyboard or click the keys; every press animates and plays a switch sound synthesized live with the Web Audio API.
 
+<img width="1299" height="981" alt="image" src="https://github.com/user-attachments/assets/1409d595-759f-4fe7-b2b8-1b74c493b53a" />
+
+
 ## Run
 
 Open `index.html` in a modern browser. No install, build step, server, or network access required.
